@@ -101,8 +101,7 @@ Computing, Networking and Applications (MetaCom), July 2023.
 
 ## Acknowledgments
 
-This project uses the [`leidenalg`]([https://github.com/vtraag/leidenalg.git)) library for community detection. We gratefully acknowledge this open-source contribution.
-
+This project uses the [`leidenalg`](https://github.com/vtraag/leidenalg) library for community detection, developed by **Vincent Traag** and contributors (GPL-3.0 License). We gratefully acknowledge this open-source contribution.
 ## Contact
 
 Fatemeh Erfan — fatemeh.erfan@polymtl.ca
