@@ -81,9 +81,11 @@ pip install networkx python-louvain numpy pandas matplotlib
 This paper is part of a broader research program on **blockchain attack detection and mitigation**:
 
 - **Selfish mining detection (ML-based)** — *Efficient Detection of Selfish Mining Attacks on Large-Scale Blockchain Networks*, IEEE QRS, 2024.
-- **Selfish mining mitigation (game-theoretic)** — *Retaliation Game for Mitigating Selfish Mining Attacks in Blockchain Networks*, Springer GameNet, 2025.
+- **Selfish mining mitigation (game-theoretic)**
+- **Retaliation Game for Mitigating Selfish Mining Attacks in Blockchain Networks**, Springer GameNet, 2025.
 - **Sybil attack defense** — *Sybil Attack Defense in Blockchain-based Industrial IoT Systems using Decentralized Federated Learning*, *Internet of Things*, Elsevier, 2026.
-- **Smart contract vulnerability detection (LLM-based)** — *Fine-Tuned Large Language Model and Comprehensive Dataset for Securing Ethereum Smart Contracts*, *Blockchain: Research and Applications*, Elsevier, 2026.
+- **Smart contract vulnerability detection (LLM-based)**
+- **Fine-Tuned Large Language Model and Comprehensive Dataset for Securing Ethereum Smart Contracts**, *Blockchain: Research and Applications*, Elsevier, 2026.
 
 Together, these works cover detection, mitigation, and prevention across major classes of blockchain attacks.
 
@@ -99,7 +101,7 @@ Computing, Networking and Applications (MetaCom), July 2023.
 
 ## Acknowledgments
 
-This project uses the [`python-louvain`](https://github.com/taynaud/python-louvain) library for community detection, developed by **Thomas Aynaud** and contributors (BSD 3-Clause License). We gratefully acknowledge this open-source contribution.
+This project uses the [`leidenalg`]([https://github.com/vtraag/leidenalg.git)) library for community detection. We gratefully acknowledge this open-source contribution.
 
 ## Contact
 
